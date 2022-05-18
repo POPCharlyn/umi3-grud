@@ -1,9 +1,5 @@
 # Umi3+Dva入门实践 完成用户管理的CRUD应用（2020）
 
-### 来自
-
-<https://www.aspirantzhang.com/>
-
 ### 课程主页及讨论区
 
 <https://www.aspirantzhang.com/dva3.html>
